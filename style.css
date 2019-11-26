@@ -214,6 +214,6 @@ progress::-webkit-progress-bar-value {
 }
 @media screen and (max-width:576px){
     *{
-        font-size: 62.5%;
+        font-size: 95%;
     }
 }
